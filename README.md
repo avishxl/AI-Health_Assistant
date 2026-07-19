@@ -142,5 +142,7 @@ This project is open-sourced for educational purposes. Add a license of your cho
 
 ## 👤 Author
 
-**[Your Name]**
-GitHub: _add your GitHub profile link here_
+**A Vishal**
+GitHub: (https://github.com/avishxl)
+
+**Aarushi Gupta**
